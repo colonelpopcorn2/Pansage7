@@ -11,8 +11,8 @@ let zodiac = "null"; // undefined, null; original
 let drinkTea = "true";
 
 //print variables to consol
-console.log(firstName);
 console.log(lastName);
+console.log(firstName);
 console.log(age);
 console.log(ageFearful);
 console.log(height);
